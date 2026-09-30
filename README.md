@@ -29,7 +29,10 @@
 - **Multiplexer built in.** Workspaces, tabs, and splits with herdr's key map.
 - **Agent attention.** A sidebar dot per agent, and one key to jump to the one
   that needs you.
-- **No webview.** Rust on GPUI, Zed's GPU UI framework.
+- **Agent browsing you can watch.** Pages omp's browser tool opens float over
+  its pane as live picture-in-picture views.
+- **No webview for the app itself.** Rust on GPUI, Zed's GPU UI framework. Only
+  web pages that you or an agent open run in WebKit.
 
 ## Status
 
